@@ -16,6 +16,12 @@ keywords: "Kopil Das, AI Researcher, kopildascs, kopildas, kopildas.cs, Medical 
 
 Welcome to my personal website! I am Kopil Das, a passionate researcher and software engineer with a deep interest in **Artificial Intelligence**, specifically focusing on **deep learning** applications in **medical diagnosis**. My academic journey began with a B.Sc. in Computer Science and Engineering from [North East University Bangladesh (NEUB)](https://www.neub.edu.bd/), and I am currently involved in cutting-edge research at the **CRC Research Centre** on the project titled *"Haematological Disorders Classification from CBC Data using Autoencoder Enhanced Semi-Supervised Learning with Ensemble Techniques and XAI."*
 
+
+## 🧑‍🔬 Research Experiences
+- **Research Assistant** \| [CRC Research Center](https://bd.linkedin.com/company/consortium2021) \| Aug, 2024 - Present
+
+
+
 ## Areas of Expertise
 - **Machine Learning & Deep Learning:** Specializing in the development and implementation of algorithms for medical diagnostics, including pneumonia detection and eye disease identification using X-ray and retinal images.
 - **Python Programming:** Proficient in building AI models using Python libraries such as TensorFlow, PyTorch, and Scikit-learn.
@@ -31,8 +37,6 @@ I am currently leading research on the following topics:
 ## Academic Achievements
 - **Thesis Project:** *Using Machine Learning and Deep Learning to Identify Pneumonia from Chest X-ray Images* (2024)
 
-## 🧑‍🔬 Research Experiences
-- **Research Assistant** \| [CRC Research Center](https://bd.linkedin.com/company/consortium2021) \| Aug, 2024 - Present
 
 
 ## 👩‍💻 Technical Skills
@@ -49,7 +53,7 @@ I am currently leading research on the following topics:
 
 ## Get in Touch
 I am always eager to collaborate on research projects, exchange ideas, and learn from others. Feel free to reach out to me through the following channels:
-- **Email:** [mutalib.cs[at]gmail.com](mailto:kopildas.cs@gmail.com)
+- **Email:** [kopildas.cs@gmail.com](mailto:kopildas.cs@gmail.com)
 - **LinkedIn:** [Kopil Das](https://www.linkedin.com/in/kopildas)
 - **GitHub:** [Kopil Das](https://github.com/kopildas)
 

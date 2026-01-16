@@ -75,7 +75,7 @@ low-resource clinical environments.
 - [Mermaid](https://mermaid.js.org/) for diagraming
 - [Plotly](https://plotly.com/javascript/) for plotting -->
 
-Two-Stage Noise-Reduced Pneumonia Detection in Chest X-Ray Images Using Denoising Autoencoder–CNN Integration
+Two-Stage Noise-Reduced Pneumonia Detection in Chest X-Ray Images Using Denoising Autoencoder–CNN Integration.
 ======
 Pneumonia remains a major cause of morbidity and
 mortality worldwide, with chest X-ray imaging serving as a

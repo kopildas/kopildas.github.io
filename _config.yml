@@ -26,19 +26,19 @@ author:
   avatar           : "profile.png"
   name             : "Kopil Das"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "AI Enthusiast | Machine Learning & Deep Learning Researcher | Passionate about Medical Diagnosis & Computer Vision Projects"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kopildas.cs@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  # googlescholar    : "https://myaccount.google.com/u/2/?hl=en&pli=1"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0008-7298-9029"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -52,7 +52,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "kopildas"
-  kaggle           : # Username  
+  kaggle           : "kopildas"  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "kopildas"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

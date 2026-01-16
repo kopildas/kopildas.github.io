@@ -1,74 +1,21 @@
 ---
 permalink: /
-title: "PIK3CA-Mutant and Wild-Type Endometrial Cancer’s Comparative Interactomics Analysis Using STRING PPI Networks and TCGA–GTEx Expression."
+title: "Education and Training"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-PIK3CA mutations are among the most common
-genetic changes associated with endometrial carcinoma (EC),
-the most prevalent gynecological cancer. Despite proteogenomic
-studies revealing novel markers such as MYC activity and
-PIK3R1 in-frame insertion-deletion, protein-protein interaction
-(PPI) networks between PIK3CA-mutant and wild-type endome-
-trial cancers have not been extensively compared to healthy
-endometrium. Here, we combine transcriptome data from GTEx
-normal uterus and TCGA-UCEC tumors, use MC3 mutation
-calls to stratify tumors according on PIK3CA mutation status,
-and use STRING v12 to create condition-specific PPI networks.
-We demonstrate how PIK3CA mutations rewire the tumor
-interactome through differential expression, hub shift analysis,
-hub shift analysis, community detection, and functional enrich-
-ment. Wild-type tumors show networks centered on receptor
-tyrosine kinases (such as EGFR/ERBB2) and mixed signaling
-modules, while PIK3CA-mutant tumors have networks centered
-on AKT/mTOR and mitotic regulators (specifically AURKA,
-PLK1). These results expand previous PIK3CA interactome
-research in other malignancies to endometrial cancer and reveal
-possible mutation-specific vulnerabilities.
-
-Haematological Disorders Classification from CBC Data using Autoencoder Enhanced Semi-Supervised Learning with Ensemble Techniques and XAI.
+Formal Education
 ======
-Accurate interpretation of the Complete Blood
-Count (CBC) information is essential to the diagnosis of hema-
-tologic disorders, but manual analysis is time-consuming, sub-
-jective, and somewhat difficult in resource-constrained clinical
-circumstances. This paper suggests a multi-class classification of
-hematological disorders with routinely available CBC parame-
-ters using an end-to-end autoencoder-enhanced semi-supervised
-learning model. The architecture incorporates domain-aware
-feature engineering, graph-based semi-supervised label spread-
-ing, autoencoder-based latent feature learning, and a stacked
-ensemble classifier.
-A 1,281 CBC sample labeled dataset of 9 diagnostic categories
-is boosted with 654 unlabeled CBC reports via high-confidence
-pseudo-labeling to make good use of real-world unlabeled data.
-The nonlinear feature representations are trained through an
-auto-encoder and are trained together with clinically meaningful
-ratios and indices. The stacked ensemble, based on Random
-Forest, Extra Trees, Support Vector Machine, Logistic regression,
-Gradient Boosting, and XGBoost, is used to perform classifica-
-tion; however, averaging of seeds is conducted to make it stronger.
-The SMOTE Tomek resampling is used to deal with class imbal-
-ance, and the problem of poor predictions by high-confidence
-elements is solved through clinically inspired adjustments of
-the rule-based prediction. Model performance is measured on
-a strictly held-out test basis in terms of discrimination, calibra-
-tion, and interpretability measures. The presented methodology
-demonstrates an accuracy of 94.94, balanced accuracy of 0.93,
-and macro-averaged ROC-AUC of 0.98, and the probability
-estimates are well-calibrated. Explanations using SHAP ensure
-that dependencies on physiologically significant characteristics
-like platelet count, hemoglobin level, and white blood cell indices
-are relied upon.
-The findings show that semi-supervised learning, representa-
-tion learning, and ensemble modeling can be used to effectively,
-interpretably, and scalably diagnose hematological diseases in
-multiple classes with conventional CBC data, which can be
-implemented in a clinical decision support system in routine and
-low-resource clinical environments.
+- Bachelor of Science (Engineering) in CSE | North East University Bangladesh (NEUB)
+August 2019 - December 2023
+ --Relevant Courses to ML/AI: Data Structures and Algorithms (DSA),   Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI), Computer Vision (CV), Database Systems, Operating Systems (OS), Computer Networks, Discrete Mathematics, Numerical Methods, Object-Oriented Programming (OOP), Software Engineering
+- Higher Secondary Certificate (HSC) | Shah Khurrom Degree College
+July 2016 - March 2019
+- Secondary School Certificate (SSC) | Beheli High School
+January 2007 - March 2016
 
 <!-- For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations

@@ -1,52 +1,58 @@
 ---
 permalink: /
-title: "Education and Training"
+title: ""
 author_profile: true
 redirect_from: 
-  - /about/
   - /about.html
+  - /home.html
+  - /home
+  - /profile
+
+description: "Welcome to the personal website of <b> Kopil Das<b>, an AI researcher and software engineer specializing in deep learning applications in medical diagnosis."
+keywords: "Kopil Das, AI Researcher, kopildascs, kopildas, kopildas.cs, Medical Diagnosis, NEUB, CRC Research Centre"
 ---
 
-Formal Education
-======
-- Bachelor of Science (Engineering) in CSE | North East University Bangladesh (NEUB)
-August 2019 - December 2023
- --Relevant Courses to ML/AI: Data Structures and Algorithms (DSA),   Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI), Computer Vision (CV), Database Systems, Operating Systems (OS), Computer Networks, Discrete Mathematics, Numerical Methods, Object-Oriented Programming (OOP), Software Engineering
-- Higher Secondary Certificate (HSC) | Shah Khurrom Degree College
-July 2016 - March 2019
-- Secondary School Certificate (SSC) | Beheli High School
-January 2007 - March 2016
+# About Kopil Das
 
-<!-- For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting -->
+Welcome to my personal website! I am Kopil Das, a passionate researcher and software engineer with a deep interest in **Artificial Intelligence**, specifically focusing on **deep learning** applications in **medical diagnosis**. My academic journey began with a B.Sc. in Computer Science and Engineering from [North East University Bangladesh (NEUB)](https://www.neub.edu.bd/), and I am currently involved in cutting-edge research at the **CRC Research Centre** on the project titled *"Haematological Disorders Classification from CBC Data using Autoencoder Enhanced Semi-Supervised Learning with Ensemble Techniques and XAI."*
 
-Two-Stage Noise-Reduced Pneumonia Detection in Chest X-Ray Images Using Denoising Autoencoder–CNN Integration.
-======
-Pneumonia remains a major cause of morbidity and
-mortality worldwide, with chest X-ray imaging serving as a
-primary tool for early diagnosis. However, the presence of noise,
-artifacts, and low-quality acquisitions significantly degrades im-
-age interpretability and limits the effectiveness of automated deep
-learning–based detection systems. Conventional convolutional
-neural networks (CNNs) are particularly sensitive to such degra-
-dations, leading to reduced classification reliability. To address
-this limitation, we propose a hybrid deep learning framework
-that integrates a denoising autoencoder (DAE) with a CNN for
-robust pneumonia detection from chest X-ray images. The DAE
-is trained to reconstruct clean images from noisy inputs, enabling
-the suppression of noise while preserving diagnostically relevant
-features, and is subsequently coupled with a CNN classifier in a
-unified pipeline. The proposed model is evaluated on the publicly
-available Kaggle chest X-ray dataset using data augmentation,
-class-weighted loss, and early stopping to mitigate class imbalance
-and overfitting. Experimental results demonstrate that the DAE-
-CNN framework consistently outperforms a CNN-only baseline,
-achieving an accuracy of 92.9%, an F1-score of 94.6%, and a
-balanced accuracy of 90.9%, compared to 86.1% accuracy and
-an F1-score of 89.8% obtained without denoising. These results
-highlight the effectiveness of incorporating learnable denoising
-into deep learning pipelines and underscore its potential for
-improving the robustness and reliability of automated pneumonia
-detection in clinical imaging scenarios.
+## Areas of Expertise
+- **Machine Learning & Deep Learning:** Specializing in the development and implementation of algorithms for medical diagnostics, including pneumonia detection and eye disease identification using X-ray and retinal images.
+- **Python Programming:** Proficient in building AI models using Python libraries such as TensorFlow, PyTorch, and Scikit-learn.
+- **Research & Innovation:** Actively working on research projects and exploring innovative solutions in medical AI.
+
+## Ongoing Research
+I am currently leading research on the following topics:
+- **PIK3CA-Mutant and Wild-Type Endometrial Cancer’s Comparative Interactomics Analysis Using STRING PPI Networks and TCGA–GTEx Expression.:** Analysing PIK3CA-Mutant and Wild-Type theough PPI network
+- **Haematological Disorders Classification from CBC Data using Autoencoder Enhanced Semi-Supervised Learning with Ensemble Techniques and XAI.** Classifing nine hematological diseases.
+- **Two-Stage Noise-Reduced Pneumonia Detection in Chest X-Ray Images Using Denoising Autoencoder–CNN Integration.** Utilizing autoencoder approach to classify noisy madical images.
+
+
+## Academic Achievements
+- **Thesis Project:** *Using Machine Learning and Deep Learning to Identify Pneumonia from Chest X-ray Images* (2024)
+
+## 🧑‍🔬 Research Experiences
+- **Research Assistant** \| [CRC Research Center](https://bd.linkedin.com/company/consortium2021) \| Aug, 2024 - Present
+
+
+## 👩‍💻 Technical Skills
+- Programming Languages: Python, C, C++, Java, JavaScript, TypeScript, R (basic)
+- DS & ML Tools (Python): NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow, Pycaret, PyTorch
+- ML Techniques: Normal ML Methods, Deep Learning, NLP, Computer Vision, Graph Neural Networks, Explainable AI, Robust Modeling, etc.
+- DS Techniques: EDA, Hypothesis Testing, Sampling, Statistical Testing, Correlation Analysis and Inference
+- Data Analysis: MS Excel, SAS, Tableau, Power BI
+- IT Automation: Automation in MS Word, PowerPoint, Excel, Google Sheets, Adobe Photoshop, Illustrator, Python-based Photo Manipulations
+- Computer Vision: Image processing, object detection, augmention
+- Deep Learning: Image classification, and natural language processing
+- Documentation and Illustration: LaTeX, MS Office
+
+
+## Get in Touch
+I am always eager to collaborate on research projects, exchange ideas, and learn from others. Feel free to reach out to me through the following channels:
+- **Email:** [mutalib.cs[at]gmail.com](mailto:kopildas.cs@gmail.com)
+- **LinkedIn:** [Kopil Das](https://www.linkedin.com/in/kopildas)
+- **GitHub:** [Kopil Das](https://github.com/kopildas)
+
+---
+
+> **"Bringing innovative AI solutions to life through research and collaboration."**

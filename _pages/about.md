@@ -1,56 +1,105 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "PIK3CA-Mutant and Wild-Type Endometrial Cancer’s Comparative Interactomics Analysis Using STRING PPI Networks and TCGA–GTEx Expression."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+PIK3CA mutations are among the most common
+genetic changes associated with endometrial carcinoma (EC),
+the most prevalent gynecological cancer. Despite proteogenomic
+studies revealing novel markers such as MYC activity and
+PIK3R1 in-frame insertion-deletion, protein-protein interaction
+(PPI) networks between PIK3CA-mutant and wild-type endome-
+trial cancers have not been extensively compared to healthy
+endometrium. Here, we combine transcriptome data from GTEx
+normal uterus and TCGA-UCEC tumors, use MC3 mutation
+calls to stratify tumors according on PIK3CA mutation status,
+and use STRING v12 to create condition-specific PPI networks.
+We demonstrate how PIK3CA mutations rewire the tumor
+interactome through differential expression, hub shift analysis,
+hub shift analysis, community detection, and functional enrich-
+ment. Wild-type tumors show networks centered on receptor
+tyrosine kinases (such as EGFR/ERBB2) and mixed signaling
+modules, while PIK3CA-mutant tumors have networks centered
+on AKT/mTOR and mitotic regulators (specifically AURKA,
+PLK1). These results expand previous PIK3CA interactome
+research in other malignancies to endometrial cancer and reveal
+possible mutation-specific vulnerabilities.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+Haematological Disorders Classification from CBC Data using Autoencoder Enhanced Semi-Supervised Learning with Ensemble Techniques and XAI.
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Accurate interpretation of the Complete Blood
+Count (CBC) information is essential to the diagnosis of hema-
+tologic disorders, but manual analysis is time-consuming, sub-
+jective, and somewhat difficult in resource-constrained clinical
+circumstances. This paper suggests a multi-class classification of
+hematological disorders with routinely available CBC parame-
+ters using an end-to-end autoencoder-enhanced semi-supervised
+learning model. The architecture incorporates domain-aware
+feature engineering, graph-based semi-supervised label spread-
+ing, autoencoder-based latent feature learning, and a stacked
+ensemble classifier.
+A 1,281 CBC sample labeled dataset of 9 diagnostic categories
+is boosted with 654 unlabeled CBC reports via high-confidence
+pseudo-labeling to make good use of real-world unlabeled data.
+The nonlinear feature representations are trained through an
+auto-encoder and are trained together with clinically meaningful
+ratios and indices. The stacked ensemble, based on Random
+Forest, Extra Trees, Support Vector Machine, Logistic regression,
+Gradient Boosting, and XGBoost, is used to perform classifica-
+tion; however, averaging of seeds is conducted to make it stronger.
+The SMOTE Tomek resampling is used to deal with class imbal-
+ance, and the problem of poor predictions by high-confidence
+elements is solved through clinically inspired adjustments of
+the rule-based prediction. Model performance is measured on
+a strictly held-out test basis in terms of discrimination, calibra-
+tion, and interpretability measures. The presented methodology
+demonstrates an accuracy of 94.94, balanced accuracy of 0.93,
+and macro-averaged ROC-AUC of 0.98, and the probability
+estimates are well-calibrated. Explanations using SHAP ensure
+that dependencies on physiologically significant characteristics
+like platelet count, hemoglobin level, and white blood cell indices
+are relied upon.
+The findings show that semi-supervised learning, representa-
+tion learning, and ensemble modeling can be used to effectively,
+interpretably, and scalably diagnose hematological diseases in
+multiple classes with conventional CBC data, which can be
+implemented in a clinical decision support system in routine and
+low-resource clinical environments.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
+<!-- For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
 - [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+- [Plotly](https://plotly.com/javascript/) for plotting -->
 
-Getting started
+Two-Stage Noise-Reduced Pneumonia Detection in Chest X-Ray Images Using Denoising Autoencoder–CNN Integration
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Pneumonia remains a major cause of morbidity and
+mortality worldwide, with chest X-ray imaging serving as a
+primary tool for early diagnosis. However, the presence of noise,
+artifacts, and low-quality acquisitions significantly degrades im-
+age interpretability and limits the effectiveness of automated deep
+learning–based detection systems. Conventional convolutional
+neural networks (CNNs) are particularly sensitive to such degra-
+dations, leading to reduced classification reliability. To address
+this limitation, we propose a hybrid deep learning framework
+that integrates a denoising autoencoder (DAE) with a CNN for
+robust pneumonia detection from chest X-ray images. The DAE
+is trained to reconstruct clean images from noisy inputs, enabling
+the suppression of noise while preserving diagnostically relevant
+features, and is subsequently coupled with a CNN classifier in a
+unified pipeline. The proposed model is evaluated on the publicly
+available Kaggle chest X-ray dataset using data augmentation,
+class-weighted loss, and early stopping to mitigate class imbalance
+and overfitting. Experimental results demonstrate that the DAE-
+CNN framework consistently outperforms a CNN-only baseline,
+achieving an accuracy of 92.9%, an F1-score of 94.6%, and a
+balanced accuracy of 90.9%, compared to 86.1% accuracy and
+an F1-score of 89.8% obtained without denoising. These results
+highlight the effectiveness of incorporating learnable denoising
+into deep learning pipelines and underscore its potential for
+improving the robustness and reliability of automated pneumonia
+detection in clinical imaging scenarios.
